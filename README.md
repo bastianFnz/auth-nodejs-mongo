@@ -8,3 +8,4 @@ For default the only varible is the port of application that running in the port
 The next list of varibles is necessary to define in the path /config/config.env:
 
 - The connection string for db
+- The key for jtw (recommendation: sha254)
